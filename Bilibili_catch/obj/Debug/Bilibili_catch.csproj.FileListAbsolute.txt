@@ -1,0 +1,9 @@
+E:\CProjects\Bilibili_catch\Bilibili_catch\bin\Debug\Bilibili_catch.exe.config
+E:\CProjects\Bilibili_catch\Bilibili_catch\bin\Debug\Bilibili_catch.exe
+E:\CProjects\Bilibili_catch\Bilibili_catch\bin\Debug\Bilibili_catch.pdb
+E:\CProjects\Bilibili_catch\Bilibili_catch\obj\Debug\Bilibili_catch.csprojResolveAssemblyReference.cache
+E:\CProjects\Bilibili_catch\Bilibili_catch\obj\Debug\Bilibili_catch.Form1.resources
+E:\CProjects\Bilibili_catch\Bilibili_catch\obj\Debug\Bilibili_catch.Properties.Resources.resources
+E:\CProjects\Bilibili_catch\Bilibili_catch\obj\Debug\Bilibili_catch.csproj.GenerateResource.Cache
+E:\CProjects\Bilibili_catch\Bilibili_catch\obj\Debug\Bilibili_catch.exe
+E:\CProjects\Bilibili_catch\Bilibili_catch\obj\Debug\Bilibili_catch.pdb
